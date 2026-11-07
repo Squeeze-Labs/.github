@@ -7,5 +7,5 @@ Squeeze is a privately developed research platform for collecting, processing, a
 The platform is actively developed, with research and selected technical work shared publicly.
 
 **Links**
-- [Website](https://squeezelabs.net)
+- [Website](https://squeeze.leobread.com)
 - [Research on Prequential](https://prequential.org)
